@@ -1,2 +1,71 @@
 # LLMs-Tutorials-Projects
 List of Language Model LLMs Projects with Full Implementation codes
+
+
+▶ A Coding Guide to Build Advanced Document Intelligence Pipelines with Google LangExtract, OpenAI Models, Structured Extraction, and Interactive Visualization [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/LLM%20Projects/langextract_document_intelligence_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/08/a-coding-guide-to-build-advanced-document-intelligence-pipelines-with-google-langextract-openai-models-structured-extraction-and-interactive-visualization/)
+
+▶ How to Deploy Open WebUI with Secure OpenAI API Integration, Public Tunneling, and Browser-Based Chat Access [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/LLM%20Projects/open_webui_google_colab_secure_openai_tunnel_setup_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/07/how-to-deploy-open-webui-with-secure-openai-api-integration-public-tunneling-and-browser-based-chat-access/)
+
+▶ An Implementation Guide to Running NVIDIA Transformer Engine with Mixed Precision, FP8 Checks, Benchmarking, and Fallback Execution [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/nvidia_transformer_engine_colab_mixed_precision_fp8_benchmarking_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/04/06/an-implementation-guide-to-running-nvidia-transformer-engine-with-mixed-precision-fp8-checks-benchmarking-and-fallback-execution/)
+
+▶ A Coding Implementation to Run Qwen3.5 Reasoning Models Distilled with Claude-Style Thinking Using GGUF and 4-Bit Quantization [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/LLM%20Projects/qwen3_5_reasoning_colab_dual_path_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/03/26/a-coding-implementation-to-run-qwen3-5-reasoning-models-distilled-with-claude-style-thinking-using-gguf-and-4-bit-quantization/)
+
+▶ A Coding Implementation to Build an Uncertainty-Aware LLM System with Confidence Estimation, Self-Evaluation, and Automatic Web Research [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/LLM%20Projects/uncertainty_aware_llm_confidence_self_evaluation_auto_research_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/21/a-coding-implementation-to-build-an-uncertainty-aware-llm-system-with-confidence-estimation-self-evaluation-and-automatic-web-research/)
+
+▶ How to Build a Stable and Efficient QLoRA Fine-Tuning Pipeline Using Unsloth for Large Language Models [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/LLM%20Projects/unsloth_qlora_stable_sft_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/03/03/how-to-build-a-stable-and-efficient-qlora-fine-tuning-pipeline-using-unsloth-for-large-language-models/)
+
+▶ A Coding Guide to Instrumenting, Tracing, and Evaluating LLM Applications Using TruLens and OpenAI Models [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/LLM%20Evaluation/trulens_llm_instrumentation_feedback_evaluation_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/02/22/a-coding-guide-to-instrumenting-tracing-and-evaluating-llm-applications-using-trulens-and-openai-models/)
+
+▶ How to Align Large Language Models with Human Preferences Using Direct Preference Optimization, QLoRA, and Ultra-Feedback [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/LLM%20Projects/dpo_alignment_qlora_ultrafeedback_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/02/12/how-to-align-large-language-models-with-human-preferences-using-direct-preference-optimization-qlora-and-ultra-feedback/)
+
+▶ How to Build a Matryoshka-Optimized Sentence Embedding Model for Ultra-Fast Retrieval with 64-Dimension Truncation [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/LLM%20Projects/matryoshka_representation_learning_sentencetransformers_msmarco_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/02/11/how-to-build-a-matryoshka-optimized-sentence-embedding-model-for-ultra-fast-retrieval-with-64-dimension-truncation/)
+
+▶ A Coding Implementation to Establish Rigorous Prompt Versioning and Regression Testing Workflows for Large Language Models using MLflow [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/MLFlow%20for%20LLM%20Evaluation/Prompt_Versioning_and_Regression_Testing_for_LLMs_with_MLflow_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/08/a-coding-implementation-to-establish-rigorous-prompt-versioning-and-regression-testing-workflows-for-large-language-models-using-mlflow/)
+
+▶ A Coding Implementation to Automating LLM Quality Assurance with DeepEval, Custom Retrievers, and LLM-as-a-Judge Metrics [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/LLM%20Evaluation/rag_deepeval_quality_benchmarking_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/01/25/a-coding-implementation-to-automating-llm-quality-assurance-with-deepeval-custom-retrievers-and-llm-as-a-judge-metrics/)
+
+▶ How to Implement Functional Components of Transformer and Mini-GPT Model from Scratch Using Tinygrad to Understand Deep Learning Internals [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/LLM%20Projects/tinygrad_transformer_minigpt_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/25/how-to-implement-functional-components-of-transformer-and-mini-gpt-model-from-scratch-using-tinygrad-to-understand-deep-learning-internals/)
+
+▶ An Implementation of Fully Traced and Evaluated Local LLM Pipeline Using Opik for Transparent, Measurable, and Reproducible AI Workflows [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/LLM%20Projects/opik_local_llm_tracing_and_evaluation_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/11/21/an-implementation-of-fully-traced-and-evaluated-local-llm-pipeline-using-opik-for-transparent-measurable-and-reproducible-ai-workflows/)
+
+▶ A Coding Implementation to Build a Transformer-Based Regression Language Model to Predict Continuous Values from Text [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/regression_language_model_transformer_rlm_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/04/a-coding-implementation-to-build-a-transformer-based-regression-language-model-to-predict-continuous-values-from-text/)
+
+▶ An Implementation on Building Advanced Multi-Endpoint Machine Learning APIs with LitServe: Batching, Streaming, Caching, and Local Inference [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/advanced_litserve_multi_endpoint_api_tutorial_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/10/24/an-implementation-on-building-advanced-multi-endpoint-machine-learning-apis-with-litserve-batching-streaming-caching-and-local-inference/)
+
+▶ Ivy Framework Agnostic Machine Learning Build, Transpile, and Benchmark Across All Major Backends [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/Advanced_Ivy_Framework_Agnostic_ML_Tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/13/ivy-framework-agnostic-machine-learning-build-transpile-and-benchmark-across-all-major-backends/)
+
+▶ A Coding Guide to Master Self-Supervised Learning with Lightly AI for Efficient Data Curation and Active Learning [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/lightly_ai_self_supervised_active_learning_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/11/a-coding-guide-to-master-self-supervised-learning-with-lightly-ai-for-efficient-data-curation-and-active-learning/)
+
+▶ Building and Optimizing Intelligent Machine Learning Pipelines with TPOT for Complete Automation and Performance Enhancement [Notebook](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/tpot_advanced_pipeline_optimization_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/08/29/building-and-optimizing-intelligent-machine-learning-pipelines-with-tpot-for-complete-automation-and-performance-enhancement/)
+
+▶ A Coding Implementation to Build a Complete Self-Hosted LLM Workflow with Ollama, REST API, and Gradio Chat Interface [Notebook](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/self_hosted_llm_ollama_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/19/a-coding-implementation-to-build-a-complete-self-hosted-llm-workflow-with-ollama-rest-api-and-gradio-chat-interface/)
+
+▶ How to Test an OpenAI Model Against Single-Turn Adversarial Attacks Using deepteam [Notebook](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Adversarial%20Attacks/Single-Turn%20Attacks.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/17/how-to-test-an-openai-model-against-single-turn-adversarial-attacks-using-deepteam/)
+
+▶ Using RouteLLM to Optimize LLM Usage [Notebook](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/GPT-5/RouteLLM.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/10/using-routellm-to-optimize-llm-usage/)
+
+▶ Tutorial: Exploring SHAP-IQ Visualizations[Notebook](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/SHAP-IQ/SHAP_IQ_Visuals.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/03/tutorial-exploring-shap-iq-visualizations/)
+
+▶ Building an End-to-End Object Tracking and Analytics System with Roboflow Supervision [Notebook](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/roboflow_supervision_advanced_tracking_analytics_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/03/building-an-end-to-end-object-tracking-and-analytics-system-with-roboflow-supervision/)
+
+▶ Getting Started with Microsoft’s Presidio: A Step-by-Step Guide to Detecting and Anonymizing Personally Identifiable Information PII in Text [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/Presidio.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/24/getting-started-with-microsofts-presidio-a-step-by-step-guide-to-detecting-and-anonymizing-personally-identifiable-information-pii-in-text/)
+
+▶ Build a Groundedness Verification Tool Using Upstage API and LangChain [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/Upstage_Groundedness_Check_Tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/24/build-a-groundedness-verification-tool-using-upstage-api-and-langchain/)
+
+▶ A Coding Guide to Build a Production-Ready Asynchronous Python SDK with Rate Limiting, In-Memory Caching, and Authentication [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/advanced_async_python_sdk_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/23/a-coding-guide-to-build-a-production-ready-asynchronous-python-sdk-with-rate-limiting-in-memory-caching-and-authentication/)
+
+▶ Building High-Performance Financial Analytics Pipelines with Polars: Lazy Evaluation, Advanced Expressions, and SQL Integration [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/polars_sql_analytics_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/17/building-high-performance-financial-analytics-pipelines-with-polars-lazy-evaluation-advanced-expressions-and-sql-integration/)
+
+▶ Building AI-Powered Applications Using the Plan → Files → Code Workflow in TinyDev [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/tinydev_gemini_implementation_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/14/building-ai-powered-applications-using-the-plan-%e2%86%92-files-%e2%86%92-code-workflow-in-tinydev/)
+
+▶ A Comprehensive Coding Tutorial for Advanced SerpAPI Integration with Google Gemini-1.5-Flash for Advanced Analytics [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/advanced_serpapi_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/06/a-comprehensive-coding-tutorial-for-advanced-serpapi-integration-with-google-gemini-1-5-flash-for-advanced-analytics/)
+
+▶ Build a Secure AI Code Execution Workflow Using Daytona SDK [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/daytona_secure_ai_code_execution_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/12/build-a-secure-ai-code-execution-workflow-using-daytona-sdk/)
+
+▶ A Coding Guide Implementing ScrapeGraph and Gemini AI for an Automated, Scalable, Insight-Driven Competitive Intelligence and Market Analysis Workflow  [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/Competitive_Analysis_with_ScrapeGraph_Gemini_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/02/a-coding-guide-implementing-scrapegraph-and-gemini-ai-for-an-automated-scalable-insight-driven-competitive-intelligence-and-market-analysis-workflow/)
+
+▶ A Coding Implementation to Build an Interactive Transcript and PDF Analysis with Lyzr Chatbot Framework [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/Lyzr_Chatbot_Framework_Implementation_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/05/27/a-coding-implementation-to-build-an-interactive-transcript-and-pdf-analysis-with-lyzr-chatbot-framework/)
+
+▶ Step-by-Step Guide to Creating Synthetic Data Using the Synthetic Data Vault (SDV)  [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/AutoGen_TeamTool_RoundRobin_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/05/25/step-by-step-guide-to-creating-synthetic-data-using-the-synthetic-data-vault-sdv/)
+
+▶ Creating a Knowledge Graph Using an LLM  [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/tree/main/Mirascope) [Tutorial](https://www.marktechpost.com/2025/07/28/creating-a-knowledge-graph-using-an-llm/)
