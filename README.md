@@ -2,6 +2,8 @@
 List of Language Model LLMs Projects with Full Implementation codes
 
 
+▶ A End-to-End Coding Guide to Running OpenAI GPT-OSS Open-Weight Models with Advanced Inference Workflows [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/LLM%20Projects/gpt_oss_open_weight_advanced_inference_tutorial_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/04/17/a-end-to-end-coding-guide-to-running-openai-gpt-oss-open-weight-models-with-advanced-inference-workflows/)
+
 ▶ A Coding Implementation of Crawl4AI for Web Crawling, Markdown Generation, JavaScript Execution, and LLM-Based Structured Extraction [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/LLM%20Projects/crawl4ai_web_crawling_extraction_deepcrawl_llm.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/14/a-coding-implementation-of-crawl4ai-for-web-crawling-markdown-generation-javascript-execution-and-llm-based-structured-extraction/)
 
 ▶ A Coding Guide to Build Advanced Document Intelligence Pipelines with Google LangExtract, OpenAI Models, Structured Extraction, and Interactive Visualization [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/LLM%20Projects/langextract_document_intelligence_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/08/a-coding-guide-to-build-advanced-document-intelligence-pipelines-with-google-langextract-openai-models-structured-extraction-and-interactive-visualization/)
