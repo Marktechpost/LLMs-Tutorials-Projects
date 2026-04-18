@@ -2,6 +2,8 @@
 List of Language Model LLMs Projects with Full Implementation codes
 
 
+▶ A Coding Guide for Property-Based Testing Using Hypothesis with Stateful, Differential, and Metamorphic Test Design [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/LLM%20Evaluation/hypothesis_property_based_testing_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/18/a-coding-guide-for-property-based-testing-using-hypothesis-with-stateful-differential-and-metamorphic-test-design/)
+
 ▶ A End-to-End Coding Guide to Running OpenAI GPT-OSS Open-Weight Models with Advanced Inference Workflows [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/LLM%20Projects/gpt_oss_open_weight_advanced_inference_tutorial_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/04/17/a-end-to-end-coding-guide-to-running-openai-gpt-oss-open-weight-models-with-advanced-inference-workflows/)
 
 ▶ A Coding Implementation of Crawl4AI for Web Crawling, Markdown Generation, JavaScript Execution, and LLM-Based Structured Extraction [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/LLM%20Projects/crawl4ai_web_crawling_extraction_deepcrawl_llm.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/14/a-coding-implementation-of-crawl4ai-for-web-crawling-markdown-generation-javascript-execution-and-llm-based-structured-extraction/)
