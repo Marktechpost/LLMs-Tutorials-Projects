@@ -2,6 +2,8 @@
 List of Language Model LLMs Projects with Full Implementation codes
 
 
+▶ How to Build Traceable and Evaluated LLM Workflows Using Promptflow, Prompty, and OpenAI [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/LLM%20Projects/promptflow_traceable_llm_workflow_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/28/how-to-build-traceable-and-evaluated-llm-workflows-using-promptflow-prompty-and-openai/)
+
 ▶ How to Build a Fully Searchable AI Knowledge Base with OpenKB, OpenRouter, and Llama [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/LLM%20Projects/openkb_openrouter_llama_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/26/how-to-build-a-fully-searchable-ai-knowledge-base-with-openkb-openrouter-and-llama/)
 
 ▶ A Coding Implementation on kvcached for Elastic KV Cache Memory, Bursty LLM Serving, and Multi-Model GPU Sharing [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/LLM%20Projects/kvcached_vllm_elastic_kv_cache_tutorial_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/04/25/a-coding-implementation-on-kvcached-for-elastic-kv-cache-memory-bursty-llm-serving-and-multi-model-gpu-sharing/)
